@@ -1,0 +1,33 @@
+Gradesheet
+
+Project 1: Lost and Found
+
+Your score |	Max Score	Description
+Documentation
+5/5 pts	Javadoc comments for each class and method are complete and correct. 
+	Each variable is documented with Javadoc or line comments.
+
+Pet
+5/5 pts	Phone numbers are formatted correctly.
+5/5 pts	Correct calls to methods of ChipFactory to register/create chip.
+
+PetData
+/10 pts	Constructor with a String parameter creates a list of Pets from a text file, or an 
+	empty list if the file is not found. Parsing of text file is correct.
+/10 pts	The registered pets list is implemented as type Pet[] as discussed in the 
+	online lecture notes.
+5/5 pts	Pets are listed in case-insensitive alphabetical order of owner names.
+5/5 pts	add() adds a new Pet in the correct position in the list.
+10/10 pts	remove() correctly removes the Pet given by the parameter.
+15/15 pts	search() returns correct data depending on the field and search string.
+5/5 pts	search() returns a properly formatted String as described in the assignment.
+10/10 pts	saveToFile() saves the current registered Pets list to a text file in the 
+	correct format. The name of the text file is correct, and the file is closed and 
+	saved before execution ends.
+
+JUnit Tests
+3/3 pts	PetTest: appropriate test methods for testing phone numbers
+6/6 pts	PetDataTest: appropriate test methods for remove()
+6/6 pts	PetDataTest: appropriate test methods for add()
+
+GRADE 100

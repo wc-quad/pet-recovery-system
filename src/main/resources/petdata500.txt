@@ -1,0 +1,500 @@
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson
+Cat     	      1113	(919)987-6543	Patterson, Jane
+Dog     	      1111	(919)489-5643	Perry, Helen
+Cat     	      1987	(919)919-2345	Perry, Jo Ellen
+Ferret  	      6754	(345)665-4311	Price, Velma
+Dog     	      1118	(336)290-8678	Silver, Annabelle
+Dog     	      1890	(923)456-7890	Silver, Nate
+Cat     	      1024	(897)564-3232	Tetterton, James
+Cat     	      2911	(676)543-3451	Van Halen, Rocker
+Dog     	      1022	(277)276-5432	Watson, Doc
+Dog     	      1112	(613)307-8976	Williams, Jimmy
+Dog     	      5078	(987)654-6789	Adams, Ralph
+Weasel  	      1115	(913)456-7891	Baldwin, Harold
+Horse   	      1342	(677)890-9876	Brooks, David
+Cat     	      1234	(687)898-9087	Cher
+Bird    	      1114	(413)345-6789	Kidd, Alex
+Cat     	      1567	(677)512-2345	Matthews, Chris
+Horse   	      9987	(910)999-1234	Page, Nelson

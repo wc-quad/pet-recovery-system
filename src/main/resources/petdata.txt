@@ -1,0 +1,17 @@
+Dog	1111	(919)489-5643	Perry, Helen
+Dog	1112	(613)307-8976	Williams, Jimmy
+Cat	1113	(919)987-6543	Patterson, Jane
+Cat	1024	8975643232	Tetterton, James
+Horse	9987	9109991234	Page, Nelson
+Bird	1111	4133456789	Kidd, Alex
+Ferret	6754	34566543	Price, Velma
+Dog	1118	3362908678	Silver, Annabelle
+Dog	1022	2772765432	Watson, Doc
+Dog	5078	987-654-6789	Adams, Ralph
+Cat	2911	676543345	Van Halen, Rocker
+Cat	1234	687.898.9087622	Cher
+Weasel	1113	913456789	Baldwin, Harold
+Horse	1342	6778909876	Brooks, David
+Cat	1567	6775122345	Matthews, Chris
+Dog	1890	9234567890	Silver, Nate
+Cat	1987	9199192345	Perry, Jo Ellen
